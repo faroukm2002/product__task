@@ -1,0 +1,26 @@
+/* Navbar */
+.navbar {
+    background-color: #F7F1E4;
+    padding: 1rem 0;
+    border-bottom: 1px solid #E3DCDC;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #77B0A2;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #458F7C;
+  }
+  
+
+  
